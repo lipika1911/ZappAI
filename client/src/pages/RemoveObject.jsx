@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import {Eraser, Scissors, Sparkles} from 'lucide-react'
+import {Scissors, Sparkles} from 'lucide-react'
 
 const RemoveObject = () => {
   const [input, setInput] = useState('')
