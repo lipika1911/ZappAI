@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import {Edit, Hash, Image, Sparkles} from 'lucide-react'
+import {Image, Sparkles} from 'lucide-react'
 
 const GenerateImages = () => {
   const ImageStyle = ['Realistic', 'Ghibli style', 'Anime style', 'Cartoon style', 'Fanatasy style','Realistic style', '3D style', 'Portrait style']
