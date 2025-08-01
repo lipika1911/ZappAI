@@ -62,7 +62,7 @@ const RemoveBackground = () => {
           {
             loading ? (
             <>
-              <span className='w-4 h-4 my-1 rounded-full border-2 border-t-transparent animate-spin'></span> Generating ...
+              <span className='w-4 h-4 my-1 rounded-full border-2 border-t-transparent animate-spin'></span> Removing ...
             </>
           )  : (
             <>
