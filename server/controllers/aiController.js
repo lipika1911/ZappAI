@@ -277,8 +277,8 @@ export const resumeReview = async(req,res) => {
 
         res.json({
             success: true,
-            message: 'AI Image generated successfully!',
-            content: imageUrl
+            message: 'Resume review generated successfully!',
+            content
         })
 
     } catch (error) {
