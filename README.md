@@ -3,10 +3,6 @@
 
 **ZAPP-AI** is a powerful AI SaaS application that offers a suite of AI-driven tools to streamline your content and image workflows — from article and blog generation to resume reviews and image manipulation. Built with **React**, **Node.js**, **Clerk**, and **Gemini API**, it combines performance with simplicity.
 
-
-
-
-
 ## 💻 Deployed App
 
 👉 [Try it live!](https://zapp-ai-zeta.vercel.app/)
@@ -31,10 +27,7 @@
 - **File Uploads:** Multer
 - **Image Hosting:** Cloudinary
 - **AI Features:** Gemini API (from Google)
-               
-
-
-
+  
 
 ## ✨ Features
 
@@ -60,7 +53,6 @@ Before getting started, ensure you have the following installed:
 - **Cloudinary account** – [Create one](https://cloudinary.com/)
 - **Gemini API access** – [Set up here](https://ai.google.dev/)
 - **Neon DB account** – [Set up here](https://neon.tech/)
-```
 
 ### ⚙️ Clone the Repository
 
